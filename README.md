@@ -14,3 +14,11 @@ Please compile this application with `pyinstaller`.
 You can download and install the "pyinstaller" library in your virtual environment with the following command:
 
 `pip install pyinstaller`
+
+The `pyinstaller` command required to compile this application is:
+
+`pyinstaller --onefile --windowed -- YinegelOS_Info.py`
+
+Please be in your Python virtual environment and in the same directory as the `YinegelOS_Info.py` file when running this command.
+
+After the command is complete, the executable file will be found in the `dist` folder. You can delete the `build` folder. The execution permissions (chmod +x) for the executable file in the `dist` folder have been granted by `pyinstaller`.
