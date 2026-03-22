@@ -10,7 +10,7 @@ install this dependency by creating a virtual environment (venv) in Python,
 
 and using the command: `pip install customtkinter`
 
-Please compile this application with "pyinstaller".
+Please compile this application with `pyinstaller`.
 You can download and install the "pyinstaller" library in your virtual environment with the following command:
 
-"pip install pyinstaller"
+`pip install pyinstaller`
