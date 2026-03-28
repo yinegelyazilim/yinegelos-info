@@ -17,7 +17,7 @@ You can download and install the "pyinstaller" library in your virtual environme
 
 The `pyinstaller` command required to compile this application is:
 
-`pyinstaller --onefile --windowed -- YinegelOS_Info.py`
+`pyinstaller --onefile --windowed YinegelOS_Info.py`
 
 Please be in your Python virtual environment and in the same directory as the `YinegelOS_Info.py` file when running this command.
 
